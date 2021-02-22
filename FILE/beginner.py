@@ -1,0 +1,6 @@
+file = open ("test .txt ","r")
+#a=file.read(9)
+b=file.readlines()
+#print(a)
+print("xin ra\n",b)
+file .close ()
